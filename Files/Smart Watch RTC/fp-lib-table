@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SSD1306")(type "KiCad")(uri "/media/raagam/Windows/Documents and Settings/Raagam Parmar/Documents/IIT PKD/TRC Smart Watch/KiCad-SSD1306-128x64-master/library/SSD1306.pretty")(options "")(descr ""))
+  (lib (name "megasaturnv_custom_components")(type "KiCad")(uri "/media/raagam/Windows/Documents and Settings/Raagam Parmar/Documents/IIT PKD/TRC Smart Watch/kicad-custom-components-library-master/megasaturnv_custom_components.pretty")(options "")(descr ""))
+  (lib (name "ESP8266")(type "KiCad")(uri "/media/raagam/Windows/Documents and Settings/Raagam Parmar/Documents/IIT PKD/TRC Smart Watch/kicad-ESP8266-master/ESP8266.pretty")(options "")(descr ""))
+  (lib (name "Simpler_Footprints")(type "KiCad")(uri "${KIPRJMOD}/Simpler_Footprints.pretty")(options "")(descr ""))
+)
