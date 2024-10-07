@@ -1,8 +1,8 @@
 # Smart Watch ⌚
 By:<br>
 - [Parmar Raagam Hitesh](https://github.com/Raagam-Parmar) (112301024)
-- M Murali Karthick (112301019)
-- M Sreenath Karthick (112301042)
+- [M Murali Karthick](https://github.com/Murali47k) (112301019)
+- [M Sreenath Karthick](https://github.com/SreenathKarthick11) (112301042)
 - [K Srirama Srikar](https://github.com/k-srirama-srikar) (142301013)
 
 We developed a smart watch as a part of The Robotics Club, IIT Palakkad, during the Spring (Even) Semester 2024...<br>
